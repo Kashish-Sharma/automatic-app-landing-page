@@ -5,8 +5,8 @@ include_in_header: true
 ---
 
 # Changelog
-All notable changes to this app will be documented in this file.
-
+All notable changes to this app will be documented in this file.<br>
+I'm constantly working to improve your Cinopsys experience, here's a summary of what has changed...
 <br>
 
 ### `Latest`
