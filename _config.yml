@@ -46,9 +46,9 @@ features                                  :
     description                           : Score, release date, runtime, genres, overview, casting, seasons, episodes, … Know everything about every movie and show!
     fontawesome_icon_name                 : info-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Join our Discord server
+    description                           : Want to discuss about movies and shows, report a bug, suggest a feature or just chat? Join our Discord at https://discord.gg/uSTkdmr.
+    fontawesome_icon_name                 : discord
     
   - title                                 : Want more?
     description                           : Send us your ideas to “kashish25798@gmail.com”.
