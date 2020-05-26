@@ -35,14 +35,14 @@ This app uses the **TMDb** and **Trakt** APIs but is not endorsed or certified b
 
 <br>
 
-## Cookies
+## 2.0 Cookies
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
 This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
 <br>
 
-## Service Providers
+## 3.0 Service Providers
 I may employ third-party companies and individuals due to the following reasons:
 
 - To facilitate our Service;
@@ -56,26 +56,26 @@ I want to inform users of this Service that these third parties have access to y
 
 <br>
 
-## Security
+## 4.0 Security
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
 <br>
 
-## Links to Other Sites
+## 5.0 Links to Other Sites
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 <br>
 
-## Children’s Privacy
+## 6.0 Children’s Privacy
 These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
 
 <br>
 
-## Changes to This Privacy Policy
+## 7.0 Changes to This Privacy Policy
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
 <br>
 
-## Contact Us
+## 8.0 Contact Us
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
 kashish25798@gmail.com
