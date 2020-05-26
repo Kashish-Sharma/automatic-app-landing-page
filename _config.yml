@@ -48,7 +48,7 @@ features                                  :
 
   - title                                 : Join our Discord server
     description                           : Want to discuss about movies and shows, report a bug, suggest a feature or just chat? Join our <a href="https://discord.gg/uSTkdmr">Discord</a>.
-    fontawesome_icon_name                 : fab fa-discord
+    fontawesome_icon_name                 : discord
     
   - title                                 : Want more?
     description                           : Send us your ideas to “kashish25798@gmail.com”.
