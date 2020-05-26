@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+All notable changes to this app will be documented in this file.
 
 <br>
 
@@ -13,10 +13,12 @@ Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md
 # **Version 1.1.50.1**
 
 #### What's New
+- Air time for shows is now converted to your **local time**.
 - Marking a history item as **Not watched** removes only a single play.
 - More options for **start screen** in settings.
 - Added German and Hungarian translations.
 - Improved UI for dialog boxes.
+- You need to **logout** and **login** again for the app to function correctly.
 - [Changes to Privacy Policy](/privacypolicy)
 
 #### Bug Fixes
@@ -24,3 +26,6 @@ Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md
 - [Changes to Privacy Policy](/privacypolicy)
 
 <br>
+
+---
+
