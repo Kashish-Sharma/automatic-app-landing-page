@@ -2,7 +2,7 @@
 page_title                                : Cinopsys: Movie & TV Show Manager         # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-# ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            : https://play.google.com/store/apps/details?id=com.cinopsys.movieshows                                          # Enter Google Play Store URL.
@@ -22,8 +22,8 @@ your_name                                 : Kashish Sharma
 your_link                                 : https://www.linkedin.com/in/kashish98/                     
 your_city                                 : Gurugram                                
 email_address                             : kashish25798@gmail.com
-# facebook_username                         :                                           
-# instagram_username                        : ebaehr
+facebook_username                         :                                           
+instagram_username                        : 
 twitter_username                          : kashish25798
 github_username                           : Kashish-Sharma
 # youtube_username                          :
