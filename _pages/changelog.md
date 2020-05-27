@@ -19,7 +19,7 @@ I'm constantly working to improve your Cinopsys experience, here's a summary of 
 - Added **German** and **Hungarian** translations.
 - Improved **UI** for dialog boxes.
 - You need to **logout** and **login** again for the app to function correctly.
-- [Changes to Privacy Policy](/privacypolicy)
+- [Changes to Privacy Policy](https://kashish-sharma.github.io/cinopsys-page/privacypolicy/)
 
 #### Bug Fixes
 - Fixed backdrop not loading on details page.
