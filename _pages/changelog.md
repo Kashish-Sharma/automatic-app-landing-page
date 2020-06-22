@@ -10,6 +10,20 @@ I'm constantly working to improve your Cinopsys experience, here's a summary of 
 <br>
 
 ### `Latest`
+# **Version 1.1.51.0**
+
+#### What's New
+- Three new themes added ( **Deep Sea, Space, Ocean Dark** ).
+- Marking a history item as **Not watched** removes only a single play.
+- Minor improvements in Search.
+
+#### Bug Fixes
+- Fix crash when opening a custom list (when some user details are missing).
+
+<br>
+
+---
+
 # **Version 1.1.50.1**
 
 #### What's New
@@ -22,7 +36,7 @@ I'm constantly working to improve your Cinopsys experience, here's a summary of 
 - [Changes to Privacy Policy](/cinopsys-page/privacypolicy/)
 
 #### Bug Fixes
-- Fixed backdrop not loading on details page.
+- Fix backdrop not loading on details page.
 
 <br>
 
