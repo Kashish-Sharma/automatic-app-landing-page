@@ -10,6 +10,14 @@ I'm constantly working to improve your Cinopsys experience, here's a summary of 
 <br>
 
 ### `Latest`
+# **Version 1.1.51.4**
+
+#### What's New
+- Minor improvements in Search.
+- Add Portuguese translations.
+
+---
+
 # **Version 1.1.51.0**
 
 #### What's New
