@@ -10,6 +10,13 @@ I'm constantly working to improve your Cinopsys experience, here's a summary of 
 <br>
 
 ### `Latest`
+# **Version 1.1.52.3**
+
+#### What's New
+- Upcoming Movies and Episodes notifications.
+- Added Spanish translations.
+---
+
 # **Version 1.1.51.4**
 
 #### What's New
