@@ -10,7 +10,7 @@ I'm constantly working to improve your Cinopsys experience, here's a summary of 
 <br>
 
 ### `Latest`
-# **Version 1.1.52.3**
+# **Version 1.1.52.4**
 
 #### What's New
 - Upcoming Movies and Episodes notifications.
