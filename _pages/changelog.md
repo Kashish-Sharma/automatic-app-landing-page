@@ -15,6 +15,7 @@ I'm constantly working to improve your Cinopsys experience, here's a summary of 
 #### What's New
 - Upcoming Movies and Episodes notifications.
 - Added Spanish translations.
+
 ---
 
 # **Version 1.1.51.4**
